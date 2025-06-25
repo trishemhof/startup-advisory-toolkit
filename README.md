@@ -27,6 +27,7 @@ Contents
 - metrics-you-should-track.md – No, “vibes” are not a KPI.
 
 About
+
 Created by a startup advisor with more experience than most teams combined. Built to save time, cut nonsense, and help avoid the thousand dumb decisions standing between you and product-market fit.
 
 
