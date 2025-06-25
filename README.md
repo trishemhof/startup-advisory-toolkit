@@ -13,31 +13,22 @@ Welcome to the Startup Advisory Toolkit — a curated collection of tools, templ
 
 Contents
 
-🔧 /playbooks
+/playbooks
 - hiring-strategy.md – How not to hire a disaster.
 - scaling-checklist.md – The stuff you forget when things start working.
 - infra-vs-product-focus.md – A guide to spending money in the wrong place less often.
 
-📈 /gtm
+/gtm
 - launch-readiness.md – So you think you’re ready to launch? Let’s find out.
 - positioning-framework.md – Making your product sound 5x smarter than it is.
 
-🧰 /tools
+/tools
 - favorite-saas-tools.md – Because you can’t run a startup with spreadsheets alone.
 - metrics-you-should-track.md – No, “vibes” are not a KPI.
 
-
-
-👤 About
+About
 Created by a startup advisor with more experience than most teams combined. Built to save time, cut nonsense, and help avoid the thousand dumb decisions standing between you and product-market fit.
 
-"Steal this repo. Fork it. Clone it. Print it out and frame it. I won’t stop you."
 
-
-
-A Note
-This toolkit won’t save your startup, but it might stop you from crashing it into the side of a VC-funded mountain.
-
-
-Made with ❤️ by Trish Emhof. In Markdown. On purpose.
+Made with ❤️ and east coast sarcasm by Trish Emhof. In Markdown. On purpose.
 
